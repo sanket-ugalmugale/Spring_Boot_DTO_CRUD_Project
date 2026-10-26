@@ -107,9 +107,9 @@ Example for a local MySQL database (replace the placeholders with your
 own settings):
 
 ``` properties
-spring.datasource.url=jdbc:mysql://localhost:3306/your_database
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+spring.datasource.url=jdbc:mysql://localhost:3306/student_dto
+spring.datasource.username=root
+spring.datasource.password=root
 ```
 
 Do not commit real database passwords or other secrets to GitHub. Add
