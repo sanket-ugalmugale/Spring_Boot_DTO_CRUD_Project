@@ -129,7 +129,7 @@ file.
 1.  Clone your repository:
 
     ``` bash
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/sanket-ugalmugale
     ```
 
 2.  Open the project in IntelliJ IDEA or another Java IDE.
